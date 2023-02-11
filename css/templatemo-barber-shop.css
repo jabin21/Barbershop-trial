@@ -407,7 +407,7 @@ strong {
 }
 
 .custom-block-image {
-  border: 10px solid 10px solid #141619;
+  border: 10px solid #141619;
   border-radius: 100%;
   position: absolute;
   top: -60px;
