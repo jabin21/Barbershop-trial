@@ -387,7 +387,7 @@ strong {
 }
 
 .custom-block {
-  border: 10px solid var(--primary-color);
+  border: 10px solid #141619;
   border-radius: 100%;
   position: absolute;
   z-index: 2;
@@ -399,7 +399,7 @@ strong {
 }
 
 .custom-block .custom-btn {
-  background: var(--primary-color);
+  background: #141619;
 }
 
 .custom-block .custom-btn:hover {
