@@ -504,7 +504,7 @@ strong {
 }
 
 .services-thumb-price {
-  background: var(--primary-color);
+  background: #dc3545d4;
   border-radius: var(--border-radius-medium);
   font-size: var(--copyright-font-size);
   margin-left: auto;
