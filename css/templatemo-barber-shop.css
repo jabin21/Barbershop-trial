@@ -592,7 +592,7 @@ strong {
 }
 
 .contact-block-wrap {
-  background: var(--primary-color);
+  background: #141619;
   border-radius: var(--border-radius-medium);
   padding: 0;
   min-height: 200px;
