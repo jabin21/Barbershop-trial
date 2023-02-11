@@ -470,7 +470,7 @@ strong {
 }
 
 .featured-section strong {
-  background: var(--primary-color);
+  background: #f8f9fa;
   border-radius: var(--border-radius-medium);
   display: inline-block;
   margin-top: 10px;
@@ -488,7 +488,7 @@ strong {
 }
 
 .services-thumb:hover .services-info {
-  border-color: var(--primary-color);
+  border-color: #dc3545d4;
   border-width: 5px;
 }
 
