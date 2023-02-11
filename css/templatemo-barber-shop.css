@@ -611,7 +611,7 @@ strong {
 }
 
 .contact-block .custom-icon {
-  background: var(--primary-color);
+  background: #f8f9fa;
   border-radius: var(--border-radius-large);
   display: block;
   width: 50px;
