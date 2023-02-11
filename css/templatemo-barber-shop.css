@@ -164,7 +164,7 @@ strong {
   CUSTOM BLOCK BACKGROUND OVERLAY               
 -----------------------------------------*/
 .custom-block-bg-overlay-wrap {
-  background: var(--primary-color);
+  background: #141619;
   border-radius: var(--border-radius-medium);
   transition: all 0.3s ease;
 }
