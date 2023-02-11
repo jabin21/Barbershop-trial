@@ -260,7 +260,7 @@ strong {
 }
 
 #sidebarMenu .nav-link {
-  color: var(--dark-color);
+  color: #dc3545;
   font-size: var(--p-font-size);
   font-weight: var(--font-weight-bold);
   text-transform: uppercase;
