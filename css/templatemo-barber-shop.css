@@ -228,7 +228,7 @@ strong {
   NAVIGATION              
 -----------------------------------------*/
 .sidebar {
-  background: var(--primary-color);
+  background: #141619d6;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
