@@ -599,7 +599,7 @@ strong {
 }
 
 .contact-block {
-  background: var(--secondary-color);
+  background: #141619);
   border-radius: var(--border-radius-medium);
   transform: rotate(8deg);
   height: 100%;
